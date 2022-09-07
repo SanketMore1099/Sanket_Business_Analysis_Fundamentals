@@ -48,14 +48,14 @@ Testers are responsible for determining how to verify that the solution meets th
 
 Requirements focuses on the needs.
 Design focuses on the solution.
-
+----------------------------------------------------------------------
 Areas of Accounting:
 1. Process
 2. Reports
 3. Analysis
 
 Good Process -> Good Reports -> Good Analysis
-
+----------------------------------------------------------------------
 Why Business Analysis matters:
 - Time and Budgetary Pressures
 - Limited Resources
@@ -66,7 +66,7 @@ Why Business Analysis matters:
 - Need for Standardized tools and methods
 - Disengaged stakeholders
 - Unclear business requirements
-
+----------------------------------------------------------------------
 Return on Investment(ROI) for opting a business analyst:
 Reduce/Streamline the investment and maximize the returns.
 Reduce Rework
@@ -74,7 +74,7 @@ Discovering new business needs
 
 Data Vizualization is a key skill for any BA.
 Tableau, PowerBI, Excel, SQL, etc.
-
+----------------------------------------------------------------------
 Business Analyst Skills:
 - Writing and Documentation skills.(emails, reports, ppts, etc)
 - Requirements Elicitation.
@@ -82,7 +82,7 @@ Business Analyst Skills:
 - Visulization and Project Management Tools:
   Excel ,Tableau, PowerBI, MindMapper,  Jira, etc
 - Communication Skills**
-
+----------------------------------------------------------------------
 Tools Business Analyst should know:
 1. Google Docs
 2. Jira Software
@@ -95,7 +95,7 @@ Tools Business Analyst should know:
 9. BPMN
 10. Invision
 11. Slack
-
+----------------------------------------------------------------------
 A use case is a set of sequences of interactions between systems and users in a system that helps to reach a particular destination.
 
 Use Case Diagram:
@@ -111,7 +111,7 @@ Types of Relationships:
 2. Include
 3. Extend
 4. Generalization
-
+----------------------------------------------------------------------
 An Include Reltionship shows relation between a Base Use Case and an Included UseCase.
 It uses Arrow Line from base use case to the include use case.
 
@@ -119,3 +119,111 @@ An Extend Reltionship shows relation between a Base Use Case and an Extend Use C
 Extend use case will happen some time but not every time.
 Extend use case will only happen if certain criteria are met.
 It uses Arrow Line from extend use case to the base use case.
+
+Say Excuse Me -> Sneeze -> CLose Eyes
+Extend            Base      Include
+
+Include happens every time, Extend happens sometime.
+
+Generalization:
+Children Parent Relationship.
+Arrow from children to parent use cases
+----------------------------------------------------------------------
+HOW TO WRITE A BUSINESS CASE:
+1. Background Information
+2. Desired Outcome
+3. Current Situation
+4. Recommendation/Solution
+5. Success Criteria/Measures
+6. Support Required
+7. Next Steps/Timeline
+----------------------------------------------------------------------
+
+1. Requirement and Analysis
+2. Design
+3. Development
+4. Testing
+5. Maintenance
+
+TYPES OF PROJECT MANAGEMENT METHODOLOGY:
+- WATERFALL
+  SOFTWARE DEVELOPMENT LIFECYCLE:
+  1. Requirement and Analysis
+  2. Design
+  3. Development
+  4. Testing
+  5. Maintenance
+
+- AGILE
+  1. PLAN
+  2. DESIGN
+  3. DEVELOP
+  4. TEST
+  5. DEPLOY
+  6. REVIEW
+
+- ADAPTIVE
+
+- SCRUM
+  PRODUCT BACKLOG
+  SPRINT BACKLOG
+  SPRINT WEEK
+  SPRINT REVIEW MEETING RELEASE
+
+- LEAN DEVELOPMENT
+  IDENTIFY VALUE
+  MAP THE VALUE STREAM
+  CREATE FLOW
+  ESTABLISH PULL
+  SEEK PERFECTION
+
+- KANBAN
+  TO DO
+  DOING
+  DONE
+----------------------------------------------------------------------
+ REQUIREMENT ELICITATION:(Most Important Part of Business Analysis)
+ - Interviewswith SME or stakeholders.
+ - More listening, less talking
+ - Workshops
+ - Prototyping
+----------------------------------------------------------------------
+REQUIREMENTS ELICITATION TECHNIQUES:
+1. Interviews:
+  Structured/Closed Interview
+  Non Structured/Open Interview
+  Oral Interview
+  Written Interview
+  One-to-One Interview
+  Group Interviews Interview
+2. Surveys:
+3. Questionnaries
+4. Task Analysis
+5. Domain Analysis
+6. Brain Storming
+7. Prototyping
+----------------------------------------------------------------------
+SRS Documentation Structure:
+1. Introduction
+2. Overall Description
+3. System Features and Requirements
+----------------------------------------------------------------------
+How to write functional requirements:
+1. Write the positive flow first
+2. Write Exception/negative Scenarios
+3. Create a data dictonary(in excel sheet or a word format in tabular list)
+4. Capturing non functional and transitional requirements
+----------------------------------------------------------------------
+REQUIREMENTS PRIORITIZATION:
+1. What problem are you solving?
+2. Prioritize in 1-2-3
+3. Time and cost in impelementing the requirements.
+----------------------------------------------------------------------
+REQUIREMENTS VALIDATION:
+1. Requirement Reviews
+2. Prototyping
+3. Test-Case Generation
+----------------------------------------------------------------------
+Abilities of a Business Analyst:
+Able to communicate with the stakeholder.
+----------------------------------------------------------------------
