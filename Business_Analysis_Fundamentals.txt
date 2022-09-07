@@ -23,3 +23,99 @@ Types of Requirements:
 - Transition Requirements
 
 Stakeholder is an individual or a group od individuals who participate in the execution of a task or who will be affected by it. A business analyst is likely to interact with stakeholders directly and indirectly.
+
+A business analyst is responsible and accountable for the execution of all business analysis activities.
+
+A customer uses or may use products or services produced by the enterprise and may have contractual or moral rights that the enterprise is obliged to meet.
+
+Domain Subject Matter Expert is an individual with in-depth knowledge of a topic relevant to the business need or solution scope. These maybe end users, managers, process owners, legal staff or consultants.
+
+End User are stakeholders who directly interact with the solution. These may include all participants in a business or who use the product or solution.
+
+Impelementation Subject Matter Exert is any stakeholder who has  specialized knowledge regarding the impelementation of one or more solution components.
+
+Operational support is responsible for the day-to-day management and maintainance of a system or product. The roles include operations analysts, helpdesk and release manager.
+
+Project Manager is responsible for managing the work required to deliver a solution that meets business needs and ensuring that project's objective are met.
+
+Regulators are responsible for the defination and enforcement of standards on the soution. Roles may include government, regultory bodies and audition.
+
+Sponsors are responsible for initiating the effort to define business need and develop a solution that meets that need. They authorize work to be performed and control budget and scope for the initiative.
+
+Supplier is a stakeholder outside the boundary of the organization. They provide product or services to the organization. Alternate roles include providers, vendors and consultants.
+
+Testers are responsible for determining how to verify that the solution meets the requirements defined by the business analyst along with conducting the verification process. Testers also seek to ensure that the solution meets applicable quality standards.
+
+Requirements focuses on the needs.
+Design focuses on the solution.
+
+Areas of Accounting:
+1. Process
+2. Reports
+3. Analysis
+
+Good Process -> Good Reports -> Good Analysis
+
+Why Business Analysis matters:
+- Time and Budgetary Pressures
+- Limited Resources
+- Need for the Clarity
+- Different Languages(IT and Business)
+- Misaligned Project Goals and Objectives
+- Disparate Performance Measures
+- Need for Standardized tools and methods
+- Disengaged stakeholders
+- Unclear business requirements
+
+Return on Investment(ROI) for opting a business analyst:
+Reduce/Streamline the investment and maximize the returns.
+Reduce Rework
+Discovering new business needs
+
+Data Vizualization is a key skill for any BA.
+Tableau, PowerBI, Excel, SQL, etc.
+
+Business Analyst Skills:
+- Writing and Documentation skills.(emails, reports, ppts, etc)
+- Requirements Elicitation.
+- Problem Solving.
+- Visulization and Project Management Tools:
+  Excel ,Tableau, PowerBI, MindMapper,  Jira, etc
+- Communication Skills**
+
+Tools Business Analyst should know:
+1. Google Docs
+2. Jira Software
+3. Trello
+4. Microsoft Office Suite
+5. Wrike
+6. Lucid Chart
+7. Balsamiq
+8. SQL
+9. BPMN
+10. Invision
+11. Slack
+
+A use case is a set of sequences of interactions between systems and users in a system that helps to reach a particular destination.
+
+Use Case Diagram:
+High level diagram
+Does not show details
+Rectangle Represents the SYSTEM.
+Actor represents: customer, Service Provider, Transaction Admin, etc
+Use Case is represented by ovals: represents the actions to be performed like: login, book, payment, logout, check balance, etc.
+Actor has to interact with atleast one of the usecases of the system.
+Lines represents the relationships.
+Types of Relationships:
+1. Association
+2. Include
+3. Extend
+4. Generalization
+
+An Include Reltionship shows relation between a Base Use Case and an Included UseCase.
+It uses Arrow Line from base use case to the include use case.
+
+An Extend Reltionship shows relation between a Base Use Case and an Extend Use Case.
+Extend use case will happen some time but not every time.
+Extend use case will only happen if certain criteria are met.
+It uses Arrow Line from extend use case to the base use case.
