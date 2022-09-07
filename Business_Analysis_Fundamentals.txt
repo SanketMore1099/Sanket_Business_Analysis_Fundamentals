@@ -1,0 +1,25 @@
+INTRODUCTION TO BUSINESS ANALYSIS:
+It is application of knowledge, skills, tools and techniques to:
+- Determine problems and identify business needs.
+- Identify and recommend viable solutions for meeting those needs.
+- Elicit, document and manage requirements in order to meet business and project objectives.
+- Facilitate the successful implementation of the product, service or end result of the program or project.
+
+Business needs to solution impelementation.
+
+Duties:
+- Understanding enterprise problems and goals.
+- Analyzing needs and solutions.
+- Devising strategies.
+- Driving Change.
+- Facilitating stakeholder collaboration.
+
+Types of Requirements:
+- Business Requirements
+- Stakeholder Requirements
+- Solution Requirements
+  - Functional Requirements
+  - Non-Functional Requirements
+- Transition Requirements
+
+Stakeholder is an individual or a group od individuals who participate in the execution of a task or who will be affected by it. A business analyst is likely to interact with stakeholders directly and indirectly.
