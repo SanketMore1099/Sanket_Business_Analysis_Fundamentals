@@ -27,7 +27,7 @@ Stakeholder is an individual or a group od individuals who participate in the ex
 A business analyst is responsible and accountable for the execution of all business analysis activities.
 
 A customer uses or may use products or services produced by the enterprise and may have contractual or moral rights that the enterprise is obliged to meet.
-
+ 
 Domain Subject Matter Expert is an individual with in-depth knowledge of a topic relevant to the business need or solution scope. These maybe end users, managers, process owners, legal staff or consultants.
 
 End User are stakeholders who directly interact with the solution. These may include all participants in a business or who use the product or solution.
@@ -138,13 +138,6 @@ HOW TO WRITE A BUSINESS CASE:
 6. Support Required
 7. Next Steps/Timeline
 ----------------------------------------------------------------------
-
-1. Requirement and Analysis
-2. Design
-3. Development
-4. Testing
-5. Maintenance
-
 TYPES OF PROJECT MANAGEMENT METHODOLOGY:
 - WATERFALL
   SOFTWARE DEVELOPMENT LIFECYCLE:
@@ -183,9 +176,10 @@ TYPES OF PROJECT MANAGEMENT METHODOLOGY:
   DONE
 ----------------------------------------------------------------------
  REQUIREMENT ELICITATION:(Most Important Part of Business Analysis)
- - Interviewswith SME or stakeholders.
+ - Interviews with Subject Matter Experts or stakeholders.
  - More listening, less talking
  - Workshops
+ - Observations 
  - Prototyping
 ----------------------------------------------------------------------
 REQUIREMENTS ELICITATION TECHNIQUES:
@@ -195,7 +189,7 @@ REQUIREMENTS ELICITATION TECHNIQUES:
   Oral Interview
   Written Interview
   One-to-One Interview
-  Group Interviews Interview
+  Group Interviews Interview 
 2. Surveys:
 3. Questionnaries
 4. Task Analysis
